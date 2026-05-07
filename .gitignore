@@ -1,0 +1,46 @@
+# Virtual environments
+vlaenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Dataset outputs
+dataset/
+
+# Training outputs
+models/checkpoints/
+models/weights/
+models/runs/
+
+# Evaluation outputs
+evaluation/results/
+
+# MuJoCo cache
+.mujoco/
+
+# Torch cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
