@@ -1,0 +1,27 @@
+{
+  "dataset": "/home/newin/Projects/vla_pi/lerobot_dataset_native",
+  "split": "test",
+  "num_episodes": 20,
+  "episodes": [
+    1,
+    9,
+    14,
+    16,
+    18,
+    30,
+    32,
+    58,
+    87,
+    90,
+    117,
+    121,
+    124,
+    128,
+    130,
+    179,
+    181,
+    187,
+    188,
+    190
+  ]
+}

@@ -25,8 +25,13 @@ dist/
 *.egg-info/
 
 # Dataset outputs
+Dataset/
 dataset/
 
+lerobot_vla_dataset/
+lerobot_vla_dataset_224/
+lerobot_dataset_native/
+dataset_2/
 # Training outputs
 models/checkpoints/
 models/weights/

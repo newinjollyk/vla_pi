@@ -1,0 +1,12 @@
+Mon May 11 19:26:08 2026
+WARNING: File size over 2GB is not supported. File: '/home/newin/Projects/vla_pi/vlaenv/lib/python3.10/site-packages/gymnasium_robotics/envs/assets/fetch/'
+
+Mon May 11 19:26:13 2026
+WARNING: File size over 2GB is not supported. File: '/home/newin/Projects/vla_pi/vlaenv/lib/python3.10/site-packages/gymnasium_robotics/envs/assets/fetch/'
+
+Mon May 11 19:28:15 2026
+WARNING: File size over 2GB is not supported. File: '/home/newin/Projects/vla_pi/vlaenv/lib/python3.10/site-packages/gymnasium_robotics/envs/assets/fetch/'
+
+Mon May 11 19:30:50 2026
+WARNING: File size over 2GB is not supported. File: '/home/newin/Projects/vla_pi/vlaenv/lib/python3.10/site-packages/gymnasium_robotics/envs/assets/fetch/'
+
